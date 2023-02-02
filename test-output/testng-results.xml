@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-01T21:47:08 GMT-06:00" name="Default suite" finished-at="2023-02-01T21:47:08 GMT-06:00" duration-ms="86">
+    <groups>
+    </groups>
+    <test started-at="2023-02-01T21:47:08 GMT-06:00" name="Default test" finished-at="2023-02-01T21:47:08 GMT-06:00" duration-ms="86">
+      <class name="ejemplosTestNG.anotaciones.AnotacionesDemo">
+        <test-method is-config="true" signature="login()[pri:0, instance:ejemplosTestNG.anotaciones.AnotacionesDemo@2e3967ea]" started-at="2023-02-01T21:47:08 GMT-06:00" name="login" finished-at="2023-02-01T21:47:08 GMT-06:00" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="busqueda()[pri:1, instance:ejemplosTestNG.anotaciones.AnotacionesDemo@2e3967ea]" started-at="2023-02-01T21:47:08 GMT-06:00" name="busqueda" finished-at="2023-02-01T21:47:08 GMT-06:00" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- busqueda -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:ejemplosTestNG.anotaciones.AnotacionesDemo@2e3967ea]" started-at="2023-02-01T21:47:08 GMT-06:00" name="logout" finished-at="2023-02-01T21:47:08 GMT-06:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:ejemplosTestNG.anotaciones.AnotacionesDemo@2e3967ea]" started-at="2023-02-01T21:47:08 GMT-06:00" name="login" finished-at="2023-02-01T21:47:08 GMT-06:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="busquedaAvanzada()[pri:2, instance:ejemplosTestNG.anotaciones.AnotacionesDemo@2e3967ea]" started-at="2023-02-01T21:47:08 GMT-06:00" name="busquedaAvanzada" finished-at="2023-02-01T21:47:08 GMT-06:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- busquedaAvanzada -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:ejemplosTestNG.anotaciones.AnotacionesDemo@2e3967ea]" started-at="2023-02-01T21:47:08 GMT-06:00" name="logout" finished-at="2023-02-01T21:47:08 GMT-06:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- ejemplosTestNG.anotaciones.AnotacionesDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

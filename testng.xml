@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Nombre Suite">
+  <test thread-count="5" name="Nombre Test">
+    <classes>
+      <class name="ejemplosTestNG.PruebaAdicionalParaXML"/>
+      <class name="ejemplosTestNG.PrimeraPrueba"/>
+      <class name="ejemplosTestNG.AnotacionPriority"/>
+    </classes>
+  </test> <!-- Nombre Test -->
+</suite> <!-- Nombre Suite -->
